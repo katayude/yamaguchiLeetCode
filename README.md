@@ -2,4 +2,4 @@
 leetcode良問集
 
 ## LinkedList
-- Linked List Cycle
+- [Linked List Cycle](https://github.com/katayude/yamaguchiLeetCode/pull/1)
